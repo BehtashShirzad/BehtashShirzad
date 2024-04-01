@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;This+is+Mohamad+Shirzad;)](https://git.io/typing-svg)
-
+![](https://komarev.com/ghpvc/?username=MDshirzad&color=green)
 <br>
 
 <div align="center" style="margin-bottom:200px">
