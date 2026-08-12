@@ -25,7 +25,7 @@ Backend engineer focused on **Domain-Driven Design**, **microservices**, and **d
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,docker,kubernetes,redis,postgres,mssql,rabbitmq,kafka,azure,aws,git,grafana" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,docker,redis,postgres,rabbitmq,kafka,azure,aws,git,grafana" />
 </p>
 
 **Architecture:** DDD · CQRS · Clean Architecture · Microservices · Event-Driven Architecture
