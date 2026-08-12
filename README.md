@@ -14,11 +14,11 @@
 
 ### About Me
 
-Backend engineer focused on **Domain-Driven Design**, **microservices**, and **distributed systems** — building backend software that's reliable, scalable, and maintainable.
+Backend engineer focused on **Domain-Driven Design**, **microservices**, and **distributed systems** — building backend software that's reliable, scalable, and maintainable. Experienced in **hardware engineering** with a focus on **banking and payment devices**.
 
-- 🧩 Actively building **[JigsawPuzzleCaptcha](https://github.com/BehtashShirzad/jigsaw-puzzel-captcha)** — an open-source .NET CAPTCHA library published on NuGet.
-
-- 🤝 Always open to collaborating on interesting backend/open-source projects
+- 🎯 **Interested in:** Microservices architecture challenges & IoT/Hardware integrations
+- 🧩 **Actively building:** **[JigsawPuzzleCaptcha](https://github.com/BehtashShirzad/jigsaw-puzzel-captcha)** — an open-source .NET CAPTCHA library published on NuGet
+- 🤝 Always open to collaborating on interesting backend and open-source projects
 
 ---
 
