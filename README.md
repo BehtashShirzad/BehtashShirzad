@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamad Shirzad
+# Behtash Shirzad
 
 ### Senior Backend Engineer — Distributed Systems & Banking Infrastructure
 
